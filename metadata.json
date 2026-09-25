@@ -1,0 +1,6 @@
+{
+  "name": "FÁBRICA DE MINIAPPS VERSE",
+  "description": "Landing page de ventas premium, interactiva y de alta conversión para Fábrica de MiniApps Verse.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
